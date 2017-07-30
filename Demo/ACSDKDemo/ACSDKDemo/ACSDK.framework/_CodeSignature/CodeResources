@@ -32,10 +32,6 @@
 		<data>
 		s4mLv9rVc+0LP7vkLsru+ne5ojY=
 		</data>
-		<key>OSSdk.bundle/account@2x.png</key>
-		<data>
-		d5gh4MXkMygnBRN1crt5KcACJyY=
-		</data>
 		<key>OSSdk.bundle/auto_login.png</key>
 		<data>
 		LiaOExeq3I0cNnuhMNyDasOk9KE=
@@ -54,15 +50,15 @@
 		</data>
 		<key>OSSdk.bundle/checkbox_selected@2x.png</key>
 		<data>
-		SRsR3nN6aNMQxL3A+uRki67/RvM=
+		P6xE8HIWXRCaj8ZvwTPDMeMNw3c=
 		</data>
 		<key>OSSdk.bundle/checkbox_selected_un@2x.png</key>
 		<data>
-		FaXMAQLarMMZpjH2JzT2mVIWs+E=
+		tf4s/Q4vMtxzGAkWtZ6PBPW47/Y=
 		</data>
 		<key>OSSdk.bundle/close@2x.png</key>
 		<data>
-		X4V4/gT+skDb0qZYAdVB14qYCdg=
+		WZMBiRwhSiqSQSZzrrjCVAwWJpc=
 		</data>
 		<key>OSSdk.bundle/custom_gift.png</key>
 		<data>
@@ -88,14 +84,6 @@
 		<data>
 		4P9DKj0zTKM19ZudXNqYJlUfCDY=
 		</data>
-		<key>OSSdk.bundle/float_dark.png</key>
-		<data>
-		U3ZcFP99xaj4LgRTZNSFEg5kpqQ=
-		</data>
-		<key>OSSdk.bundle/float_light.png</key>
-		<data>
-		qJcBUe3J0Su/rPpnihl08/FTCR8=
-		</data>
 		<key>OSSdk.bundle/float_no_transparent.png</key>
 		<data>
 		MkJFZwxQwRDEjgfkdyDDYoWb5Sw=
@@ -111,6 +99,18 @@
 		<key>OSSdk.bundle/icn_settings_arrow_pressed.png</key>
 		<data>
 		l6uWzX6PES6odA+glZ+QiX6pKto=
+		</data>
+		<key>OSSdk.bundle/login_name@2x.png</key>
+		<data>
+		QBc/BsbvUsyl2MJ1OEbHeE5o2co=
+		</data>
+		<key>OSSdk.bundle/login_password@2x.png</key>
+		<data>
+		w20uqvXGyiw7BqIH3Fgs+l39mEM=
+		</data>
+		<key>OSSdk.bundle/logo_lightAndDark.png</key>
+		<data>
+		E0HWoL4TVs3q5/GZ0x+NjRv8Pbk=
 		</data>
 		<key>OSSdk.bundle/mobile@2x.png</key>
 		<data>
@@ -128,17 +128,21 @@
 		<data>
 		QQ6Z+AskrdvC8MU2DdeDNc5zS8A=
 		</data>
-		<key>OSSdk.bundle/password@2x.png</key>
+		<key>OSSdk.bundle/payment_name@2x.png</key>
 		<data>
-		pfoJ6a7KZls8aAaWR33nVvL699Q=
+		xgkQ7gW1lKlr2p9vCQ0fiaqR4Qg=
+		</data>
+		<key>OSSdk.bundle/payment_ptb@2x.png</key>
+		<data>
+		91U22Zl5/YIqUV+syFZ6AYj7024=
 		</data>
 		<key>OSSdk.bundle/sdk_ali1@2x.png</key>
 		<data>
-		PyHmdzh3irYJM6wZjzcRs9GQsz8=
+		9bc9dJgtJH6p4PHBBqDqQN8tprs=
 		</data>
 		<key>OSSdk.bundle/sdk_ali@2x.png</key>
 		<data>
-		RBkTzCU/+RY+ld6FYMCEQMu5HJk=
+		rew/gEeNWOYi82bRLW+kFmLK5io=
 		</data>
 		<key>OSSdk.bundle/sdk_delete.png</key>
 		<data>
@@ -150,11 +154,11 @@
 		</data>
 		<key>OSSdk.bundle/sdk_ptb1@2x.png</key>
 		<data>
-		fniJs4PNQsZ1DpGdDY9BMd8LaHo=
+		GTTvCLICj5E7yC96VEgaxhd01XM=
 		</data>
 		<key>OSSdk.bundle/sdk_ptb@2x.png</key>
 		<data>
-		Do7E2Ymw2Wu+F7YYBExtAV5MENY=
+		v+gvRtCwVBxay4iatKZcqNdnGQ0=
 		</data>
 		<key>OSSdk.bundle/sdk_setting_down.png</key>
 		<data>
@@ -166,11 +170,11 @@
 		</data>
 		<key>OSSdk.bundle/sdk_wx_pay1@2x.png</key>
 		<data>
-		h8EdDC9IBCIj+nRQArjv63N57ZE=
+		3ydr+cIjAHVZOK9XcoqiExsKORE=
 		</data>
 		<key>OSSdk.bundle/sdk_wx_pay@2x.png</key>
 		<data>
-		GbA/FziMBPRKGbFjkT8ZmbWyBIs=
+		8yDObcv3czWCjPbxdS6Wv5za3LQ=
 		</data>
 		<key>OSSdk.bundle/sdk_yinlian.png</key>
 		<data>
@@ -203,6 +207,14 @@
 		<key>OSSdk.bundle/unionpay@2x.png</key>
 		<data>
 		HYoloZXAD+pucW5wlEfh7W8sJtU=
+		</data>
+		<key>OSSdk.bundle/use_mibao@2x.png</key>
+		<data>
+		v+ukpbeV2NZ7eBweLtTpHqJSLPw=
+		</data>
+		<key>OSSdk.bundle/use_password@2x.png</key>
+		<data>
+		PivkTACpOmK0wPQwo2G5Kjk0jjo=
 		</data>
 		<key>OSSdk.bundle/user.png</key>
 		<data>
@@ -289,17 +301,6 @@
 			2fAHtZ+tQt5/TS6Uz4vpQ2zDpb1wqS5x61DYX6kkD70=
 			</data>
 		</dict>
-		<key>OSSdk.bundle/account@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			d5gh4MXkMygnBRN1crt5KcACJyY=
-			</data>
-			<key>hash2</key>
-			<data>
-			NJe+Fz+AFI2vdM+c+KL/I18k+PblsdsnFuXNDcQ34Is=
-			</data>
-		</dict>
 		<key>OSSdk.bundle/auto_login.png</key>
 		<dict>
 			<key>hash</key>
@@ -348,33 +349,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SRsR3nN6aNMQxL3A+uRki67/RvM=
+			P6xE8HIWXRCaj8ZvwTPDMeMNw3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			DUleC2++XZ8xZFIkZxIy9UZpf4Nh21ReE02n/qp/E7g=
+			BxxKtvVY03tOLi4FmkDjJ/CsB566YtYWcTq9wAa7isk=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/checkbox_selected_un@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FaXMAQLarMMZpjH2JzT2mVIWs+E=
+			tf4s/Q4vMtxzGAkWtZ6PBPW47/Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			jVtFCAkD8f24SHh8gqWPIuOmcJwqG/nFq0SUx6FtfjU=
+			vgx1OAmWr/SuqZERlWJXqb6dkFf2DFPE2NpcORV7p/Q=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/close@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X4V4/gT+skDb0qZYAdVB14qYCdg=
+			WZMBiRwhSiqSQSZzrrjCVAwWJpc=
 			</data>
 			<key>hash2</key>
 			<data>
-			sTnnCyvHPuPlRgyVbO7Zx8DnW88KvEkS/P01d9yFN9E=
+			EcWw7fzAm+sxUESCaEJ7XKOZLMuHDuqWbGROZEvEqEg=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/custom_gift.png</key>
@@ -443,28 +444,6 @@
 			9lcynvZCo02FQIiLpEMSTiev31USg76ixE6K0QPpkgs=
 			</data>
 		</dict>
-		<key>OSSdk.bundle/float_dark.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			U3ZcFP99xaj4LgRTZNSFEg5kpqQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			ad8nA2e0J5eOGv128b6tl2QACjzZNfzNFl07QSYyGv8=
-			</data>
-		</dict>
-		<key>OSSdk.bundle/float_light.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qJcBUe3J0Su/rPpnihl08/FTCR8=
-			</data>
-			<key>hash2</key>
-			<data>
-			SPBv1zCv+TTzeLNHAt8dO6+jLe9KrkVvyQxqqrcwRkE=
-			</data>
-		</dict>
 		<key>OSSdk.bundle/float_no_transparent.png</key>
 		<dict>
 			<key>hash</key>
@@ -507,6 +486,39 @@
 			<key>hash2</key>
 			<data>
 			yg3Ro+MfNPQQjmQCwN34M6aKH66ZlnMc3lYV6jlSBPE=
+			</data>
+		</dict>
+		<key>OSSdk.bundle/login_name@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QBc/BsbvUsyl2MJ1OEbHeE5o2co=
+			</data>
+			<key>hash2</key>
+			<data>
+			DLlFUC0HgWMp/yteWEfNvvCkTXkmxl+lfEXzWu3WwCY=
+			</data>
+		</dict>
+		<key>OSSdk.bundle/login_password@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w20uqvXGyiw7BqIH3Fgs+l39mEM=
+			</data>
+			<key>hash2</key>
+			<data>
+			UgskW1MT7CSOsZf9UenY5N4qwT0KINwAUUABc0lS7fk=
+			</data>
+		</dict>
+		<key>OSSdk.bundle/logo_lightAndDark.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E0HWoL4TVs3q5/GZ0x+NjRv8Pbk=
+			</data>
+			<key>hash2</key>
+			<data>
+			K2D4DCwM3ZZ9iNA1ErKNyBhys0UFV4LuMgPDsbSPZy8=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/mobile@2x.png</key>
@@ -553,37 +565,48 @@
 			t2MKphlhWpnyi+T6Sxvi4loF+Ahdi7Ozd9EwLhbjf1k=
 			</data>
 		</dict>
-		<key>OSSdk.bundle/password@2x.png</key>
+		<key>OSSdk.bundle/payment_name@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pfoJ6a7KZls8aAaWR33nVvL699Q=
+			xgkQ7gW1lKlr2p9vCQ0fiaqR4Qg=
 			</data>
 			<key>hash2</key>
 			<data>
-			+zh/L5ZMouA9k4KqcrqMGxnzdUH7dOVgkv2fyfObN5o=
+			wfUkR5Tbip2f47JBfspQCoTwFsgeHTwZvTi7rhWMM0s=
+			</data>
+		</dict>
+		<key>OSSdk.bundle/payment_ptb@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			91U22Zl5/YIqUV+syFZ6AYj7024=
+			</data>
+			<key>hash2</key>
+			<data>
+			rHGUUB19av1zvLN40bmxsWE4BN4CbOSl/16WyHhOHBk=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/sdk_ali1@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PyHmdzh3irYJM6wZjzcRs9GQsz8=
+			9bc9dJgtJH6p4PHBBqDqQN8tprs=
 			</data>
 			<key>hash2</key>
 			<data>
-			ONy+2MrCitX3U8T1UsM2g2R4rwFJQInA5FOxH47geys=
+			cmSdm86y28g6MxbOiZ2dNkElI2iycb64AfP0HnEC4Ec=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/sdk_ali@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RBkTzCU/+RY+ld6FYMCEQMu5HJk=
+			rew/gEeNWOYi82bRLW+kFmLK5io=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ad7gSZ9W9E6QLAVt4fwi5bME/4Jn4ip5r+5HxW2Ybho=
+			E+4LngQGEDYJzjbUPK941PogZW4MxEfHHHCEBgbJ2zI=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/sdk_delete.png</key>
@@ -612,22 +635,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fniJs4PNQsZ1DpGdDY9BMd8LaHo=
+			GTTvCLICj5E7yC96VEgaxhd01XM=
 			</data>
 			<key>hash2</key>
 			<data>
-			pyMW6sbkkjBINcL5KjBbHs6+0LraxnhIFbPvuv1a30o=
+			SifO1teC53BosKTrLrg3+Gk8K/VFzz+kjoaiU4Z+xVg=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/sdk_ptb@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Do7E2Ymw2Wu+F7YYBExtAV5MENY=
+			v+gvRtCwVBxay4iatKZcqNdnGQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			VpFs4hj5njFi8UwDYOnhNhe1qDvFUZHNOSFebhPP+/k=
+			f6G5shS3fEomdNlTJrYNLm2R+Bww86JDf5az7UoaIrw=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/sdk_setting_down.png</key>
@@ -656,22 +679,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h8EdDC9IBCIj+nRQArjv63N57ZE=
+			3ydr+cIjAHVZOK9XcoqiExsKORE=
 			</data>
 			<key>hash2</key>
 			<data>
-			G+dlyWwo3QHBZaTzpSKDyD9eh0cZ8VRD8fRD2WRaeds=
+			NRTn3RnvSO/kCHcrCznGAjFAcm4W6o8xjXY/prapLcQ=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/sdk_wx_pay@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GbA/FziMBPRKGbFjkT8ZmbWyBIs=
+			8yDObcv3czWCjPbxdS6Wv5za3LQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			A3N/XP1WKp4N8RZnkIIWUTWDj6i94MF4RYGokny1vAs=
+			XTv8hRXCE2lmXW1nEeRlWeYSWlYEmLoJBEKcokCg2KQ=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/sdk_yinlian.png</key>
@@ -760,6 +783,28 @@
 			<key>hash2</key>
 			<data>
 			zphS3pSsBbYwvqxwwmDQw3XxRk/8jybCpkkl9IfJabA=
+			</data>
+		</dict>
+		<key>OSSdk.bundle/use_mibao@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v+ukpbeV2NZ7eBweLtTpHqJSLPw=
+			</data>
+			<key>hash2</key>
+			<data>
+			bRk5oebwDeJIqjC6wQhwvi41yhtgBFjNcC9LOhXEfzk=
+			</data>
+		</dict>
+		<key>OSSdk.bundle/use_password@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PivkTACpOmK0wPQwo2G5Kjk0jjo=
+			</data>
+			<key>hash2</key>
+			<data>
+			TioNIJfZWLHuQT39KjWmVmKTwc3EMoGoTZUc7MSvVWU=
 			</data>
 		</dict>
 		<key>OSSdk.bundle/user.png</key>
