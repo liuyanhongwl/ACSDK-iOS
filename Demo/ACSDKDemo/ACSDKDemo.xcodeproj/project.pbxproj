@@ -7,9 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F1740BF51F3CA69E0082B48F /* ACSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1740BF41F3CA69E0082B48F /* ACSDK.framework */; };
 		F1E26BA81F0BEB36002BD13C /* OSSdk.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F1E26BA71F0BEB36002BD13C /* OSSdk.bundle */; };
-		F1E26BA91F0BEC6F002BD13C /* ACSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1E26BA51F0BEA98002BD13C /* ACSDK.framework */; };
-		F1E26BAA1F0BEC6F002BD13C /* ACSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F1E26BA51F0BEA98002BD13C /* ACSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F1F3C8BC1ECA07D700550233 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F3C8BB1ECA07D700550233 /* main.m */; };
 		F1F3C8BF1ECA07D700550233 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F3C8BE1ECA07D700550233 /* AppDelegate.m */; };
 		F1F3C8C21ECA07D700550233 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F3C8C11ECA07D700550233 /* ViewController.m */; };
@@ -38,7 +37,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				F1E26BAA1F0BEC6F002BD13C /* ACSDK.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -46,7 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		F1E26BA51F0BEA98002BD13C /* ACSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ACSDK.framework; sourceTree = "<group>"; };
+		F1740BF41F3CA69E0082B48F /* ACSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ACSDK.framework; sourceTree = "<group>"; };
 		F1E26BA71F0BEB36002BD13C /* OSSdk.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = OSSdk.bundle; sourceTree = "<group>"; };
 		F1F3C8B71ECA07D700550233 /* ACSDKDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ACSDKDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1F3C8BB1ECA07D700550233 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -71,7 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1E26BA91F0BEC6F002BD13C /* ACSDK.framework in Frameworks */,
+				F1740BF51F3CA69E0082B48F /* ACSDK.framework in Frameworks */,
 				F1F3C8F81ECA0F8B00550233 /* libsqlite3.tbd in Frameworks */,
 				F1F3C8E31ECA08F500550233 /* CoreData.framework in Frameworks */,
 			);
@@ -109,8 +107,8 @@
 		F1F3C8B91ECA07D700550233 /* ACSDKDemo */ = {
 			isa = PBXGroup;
 			children = (
+				F1740BF41F3CA69E0082B48F /* ACSDK.framework */,
 				F1E26BA71F0BEB36002BD13C /* OSSdk.bundle */,
-				F1E26BA51F0BEA98002BD13C /* ACSDK.framework */,
 				F1F3C8BD1ECA07D700550233 /* AppDelegate.h */,
 				F1F3C8BE1ECA07D700550233 /* AppDelegate.m */,
 				F1F3C8C01ECA07D700550233 /* ViewController.h */,
